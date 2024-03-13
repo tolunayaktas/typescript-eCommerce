@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Cookie",
+    "price": 270,
+    "imgUrl": "/imgs/cookie.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pen",
+    "price": 19.99,
+    "imgUrl": "/imgs/pen.jpg"
+  },
+  {
+    "id":3,
+    "name":"Computer",
+    "price": 86.000,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id":4,
+    "name":"Coffee Beans (1000gr)",
+    "price": 399.47,
+    "imgUrl": "/imgs/coffee.jpg"
+
+  }
+
+
+
+
+
+
+
+]
