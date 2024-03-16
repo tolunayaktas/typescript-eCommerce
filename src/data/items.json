@@ -14,7 +14,7 @@
   {
     "id":3,
     "name":"Computer",
-    "price": 86.000,
+    "price": 86000.00,
     "imgUrl": "/imgs/computer.jpg"
   },
   {
